@@ -1,0 +1,13 @@
+:root{
+    --test-primary-blue: #2B7FFF;
+    --test-primary-black-siniy:#011C44;
+}
+body{
+    color: var(--test-primary-black-siniy);
+}
+.button{
+  color:var(--test-primary-blue);
+}
+.textiki{
+    color:var(--test-primary-blue);
+}
